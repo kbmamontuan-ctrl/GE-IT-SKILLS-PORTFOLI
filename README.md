@@ -1,1 +1,2 @@
 # GE-IT-SKILLS-PORTFOLIO
+## Hex Codes
