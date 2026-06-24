@@ -63,7 +63,7 @@ As part of the data preparation process, I uploaded the raw CSV dataset into an 
 
 ---
 
-### 3. Human Analytical Narrative
+### 3. Analytical Narrative
 
 After reviewing the cleaned dataset and generated visualizations, I observed a notable decline in agricultural production during 2023, where output fell by approximately 17.5% compared to the previous year. While the AI-generated summary initially categorized this decline as a normal fluctuation in production levels, further contextual analysis suggests a stronger connection to environmental conditions affecting Mindanao during that period.
 
