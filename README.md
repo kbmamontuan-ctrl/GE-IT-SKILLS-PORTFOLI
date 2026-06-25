@@ -76,3 +76,57 @@ Based on these findings, I recommend that regional policymakers and LGUs priorit
 ### Conclusion
 
 Through AI-assisted data cleaning and visualization, I transformed a disorganized regional dataset into a structured analytical report capable of supporting evidence-based decision-making. The resulting charts reveal important production patterns and demonstrate how environmental factors can significantly influence regional economic performance. These insights may help guide future resource allocation and development planning initiatives in Mindanao.
+
+
+---
+
+# Mindanao Student Financial Literacy Prompt System
+
+## 1. System Prompt Template (V3 – Final Optimized)
+
+> Act as a Senior Financial Education Consultant specializing in the financial behavior of college students in the Davao Region. Your objective is to draft a 300-word financial literacy action plan for local universities and student organizations.
+
+**Context:** Undergraduate students in Davao City are increasingly exposed to TikTok product promotions, online shopping platforms, and digital payment applications that may influence their spending behavior.
+
+**Constraints:**
+
+* Use a professional and student-friendly tone.
+* Focus only on the Davao Region context.
+* Do not discuss international stock markets or global economic issues.
+* Avoid technical financial jargon.
+* Include exactly three actionable recommendations.
+
+**Format:** Output in Markdown and place the recommendations under the heading **"### Financial Literacy Recommendations"**.
+
+---
+
+## 2. Prompt Battle Table
+
+| Version | Prompt Modifier Added                                                                       | Output Quality Reflection                                                                                 |
+| ------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| V1      | "Write a financial literacy plan for students."                                             | Too broad. The AI generated generic advice that could apply anywhere in the world.                        |
+| V2      | Added the target audience (college students in Davao City).                                 | More localized, but recommendations remained general and lacked structure.                                |
+| V3      | Added regional context, formatting requirements, tone restrictions, and output constraints. | Produced focused, actionable, and locally relevant recommendations suitable for Davao-based institutions. |
+
+---
+
+## 3. Visual Branding Asset
+
+**Engine Used:** DALL·E 3
+
+**Visual Prompt:**
+
+> "A flat minimalist vector icon representing financial literacy among college students in Davao Region. Include an open book, graduation cap, and Philippine peso symbol. Use a green and blue color palette, clean geometric lines, white background, professional government-report style, no text, scalable SVG-inspired design."
+
+### Design Rationale
+
+The open book symbolizes education and learning, the graduation cap represents college students, and the peso symbol reflects financial knowledge and responsible money management. The green and blue palette communicates growth, trust, and sustainability, aligning with educational and community development initiatives in the Davao Region.
+
+---
+
+### Conclusion
+
+This prompt system demonstrates how localized prompt engineering can improve the relevance and quality of AI-generated outputs. By defining a specific audience, geographic context, tone, and formatting requirements, the system produces communication materials that are more applicable to financial literacy initiatives among college students in the Davao Region.
+
+
+
